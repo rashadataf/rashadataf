@@ -1,7 +1,3 @@
 <div align="center">
-	<br>
-	<a href="https://github.com/rashadataf/rashadataf/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
+	<h1>Hello Everybody and welcome in my profile</h1>
 </div>
